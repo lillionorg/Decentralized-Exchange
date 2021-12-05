@@ -20,11 +20,11 @@ In order to address the first problem, we needed to enable features that attract
 High-frequency trading using feeless transactions.
 APIs that enable trading/AMM bots to observe market changes and submit trades.
 Advanced trading features like stop limit, market limit, Stop loss, Fill/Kill, Post only, TWAP, etc.
-Thirdly, proper decentralization and Interoperability are achieved by having a parachain in Polkadot that brings in liquidity from other blockchains and also using ChainBridge protocol that connects directly to the Ethereum network. Hence, traders have two different mechanisms to bring in liquidity.
+Thirdly, proper decentralization and Interoperability that brings in liquidity from other blockchains and also using ChainBridge protocol that connects directly to the Ethereum network. Hence, traders have two different mechanisms to bring in liquidity.
 
 # The value we provide to the Substrate community is,
 
 They can build custom UI/UX to connect to our network and create their own custom exchange experience.
 Traders can contribute their own custom trading algorithms by making use of market data provided by our full nodes.
-They get a decentralized trading platform to trade Polkadot & Ethereum tokens.
+They get a decentralized trading platform to trade Lillion, Binance & Ethereum tokens.
 This will be one of the first Decentralized exchanges to have High-Frequency Trading bot support using APIs directly from full nodes.
